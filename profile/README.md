@@ -19,8 +19,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpa-tech-arg/.github/main/profile/assets/kalpa-logo-dark.png">
-  <img src="https://raw.githubusercontent.com/kalpa-tech-arg/.github/main/profile/assets/kalpa-logo-light.png" alt="Kalpa Tech" height="120" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpa-tech-arg/.github/main/profile/assets/kalpa-logo-light.png">
+  <img src="https://raw.githubusercontent.com/kalpa-tech-arg/.github/main/profile/assets/kalpa-logo-dark.png" alt="Kalpa Tech" height="120" />
 </picture>
 
 # Kalpa Tech
