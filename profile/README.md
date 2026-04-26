@@ -19,8 +19,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/kalpa-logo-dark.png">
-  <img src="./assets/kalpa-logo-light.png" alt="Kalpa Tech" height="120" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpa-tech-arg/.github/main/profile/assets/kalpa-logo-dark.png">
+  <img src="https://raw.githubusercontent.com/kalpa-tech-arg/.github/main/profile/assets/kalpa-logo-light.png" alt="Kalpa Tech" height="120" />
 </picture>
 
 # Kalpa Tech
@@ -46,14 +46,16 @@ No vendemos horas: somos un partner tecnológico que toma una necesidad y la con
 
 ## Qué hacemos
 
-- **Firmware embedded** para microcontroladores — STM32, ESP32, PIC, AVR
-- **Hardware electrónico a medida** — diseño, fabricación y producción
-- **Linux embebido y edge computing** — Jetson, Raspberry Pi, PC industrial
-- **Cloud AWS** — IoT Core, Lambda, DynamoDB, dashboards y gestión de flota
-- **Automatización industrial y robótica** — PLC, SCADA, brazos robóticos
-- **Diseño 3D y mecánica** — carcasas, instalación en campo
-- **Prototipado, escalado e industrialización**
-- **Modernización de equipos** e ingeniería inversa
+| | |
+|---|---|
+| **Firmware embedded** | Microcontroladores STM32, ESP32, PIC, AVR |
+| **Hardware a medida** | Diseño, fabricación y producción de electrónica |
+| **Linux embebido** | Edge computing en Jetson, Raspberry Pi, PC industrial |
+| **Cloud AWS** | IoT Core, Lambda, DynamoDB, dashboards, gestión de flota |
+| **Automatización** | PLC, SCADA, robótica industrial |
+| **Diseño 3D / Mecánica** | Carcasas, integración mecánica, instalación en campo |
+| **Industrialización** | Prototipado, escalado y soporte a producción |
+| **Modernización** | Reingeniería e ingeniería inversa de equipos existentes |
 
 ---
 
@@ -105,11 +107,13 @@ Oil & Gas · IoT industrial · Robótica · Salud ambiental · Foodtech · Agrit
 
 ## Contacto
 
-- **Web:** [kalpa.com.ar](https://www.kalpa.com.ar)
-- **LinkedIn:** [linkedin.com/company/kalpa-tech](https://www.linkedin.com/company/kalpa-tech)
-- **Instagram:** [@kalpa.tech](https://www.instagram.com/kalpa.tech)
-- **Mail:** info@kalpa.com.ar
-- **Ubicación:** Buenos Aires · Argentina
+| | |
+|---|---|
+| **Web** | [kalpa.com.ar](https://www.kalpa.com.ar) |
+| **LinkedIn** | [/company/kalpa-tech](https://www.linkedin.com/company/kalpa-tech) |
+| **Instagram** | [@kalpa.tech](https://www.instagram.com/kalpa.tech/) |
+| **Mail** | info@kalpa.com.ar |
+| **Ubicación** | Buenos Aires · Argentina |
 
 ---
 
